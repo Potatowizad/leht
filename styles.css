@@ -1,0 +1,86 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+    background: url("images/background.jpg");
+    display: flex;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+.left-column {
+	display: inline-block;
+	width: 50%;
+}
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+.card {
+    background: white;
+    display: flex;
+    margin-top: 5%;
+}
+.card-content {
+    flex-grow: 1;
+    padding: 20px;
+    font-size: 1em;
+}
+.card-horisontal > * {
+    flex-direction: row;
+}
+.card-vertical > * {
+    flex-direction: column;
+}
+.card-image {
+    flex: 1 0 140px;
+}
+.twitter-logo {
+	background-color: #00aced;
+	background-image: url("images/twitter-logo.svg");
+	background-size: 50%;
+	background-position: center;
+	background-repeat: no-repeat;
+
+}
+.twitter-card {
+	height: 140px;
+
+}
+.slidecontainer {
+    width: 100%;
+    margin-top: 5%;
+    border: transparent;
+}
+.slider {
+    -webkit-appearance: none;
+    appearance: none;
+    height: 20px;
+    width: 485px;
+    border: transparent;
+    border-radius: 1.3em;
+    background-image: url("images/sliderbody.png");
+    cursor: pointer;
+
+}
+.slider::-webkit-slider-range{
+    -webkit-appearance: none;
+    background-image: url("sliderfull.png");
+}
+.weather-large{
+    display: flex;
+    height: 190px;
+    background:url("images/weatherbody.png");
+}
+.temp{
+    display: flex;
+    width: 160px;
+    background-image: url("images/taust2.png");
+    justify-content: center;
+}
+
