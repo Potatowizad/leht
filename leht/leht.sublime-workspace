@@ -1,0 +1,476 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgroun",
+				"background-repeat"
+			],
+			[
+				"backgro",
+				"background-image"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"author",
+				"author_id"
+			],
+			[
+				"ii",
+				"initialize"
+			],
+			[
+				"tot",
+				"totalBombs"
+			],
+			[
+				"save",
+				"saveGame"
+			],
+			[
+				"cell",
+				"cellElement"
+			],
+			[
+				"min",
+				"mindfield"
+			],
+			[
+				"quer",
+				"querySelector"
+			],
+			[
+				"open",
+				"openCell"
+			],
+			[
+				"op",
+				"openNeighbours"
+			],
+			[
+				"bob",
+				"bombCount"
+			],
+			[
+				"count",
+				"countBombs"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"a",
+				"appendChild"
+			],
+			[
+				"game",
+				"gameState"
+			],
+			[
+				"all",
+				"allRadioButtons"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"is",
+				"isOpen"
+			],
+			[
+				"backl",
+				"background-color"
+			],
+			[
+				"bakcgr",
+				"background-color"
+			],
+			[
+				"bomb",
+				"bombCount"
+			],
+			[
+				"ne",
+				"neighbour"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"paddin",
+				"padding-top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "leht1.html",
+			"settings":
+			{
+				"buffer_size": 646,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "*{\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\nbody {\n    background: url(\"images/background.jpg\");\n    background-size: cover;\n    background-position: center;\n}\n.left-column{\n\tdisplay: inline-block;\n\twidth: 50%;\n}\n.container{\n\twidth: 80%;\n\tmargin: 0 auto;\n}\n.card {\n    background: white;\n    display: block;\n}\n.card-content {\n    flex-grow: 1;\n    padding: 25px;\n    font-size: 1.2em;\n}\n.card-horisontal > * {\n    flex-direction: row;\n}\n.card-vertical > * {\n    flex-direction: column;\n}\n\n.twitter-logo{\n\tbackground-color: #00aced;\n\tbackground-image: url(\"images/twitter-logo.svg\");\n\tbackground-size: 50%;\n\tbackground-position: center;\n\tbackground-repeat: no-repeat;\n\twidth: 140px;\n\theight: 140px;\n}\n.twitter-card{\n\theight: 140px;\n}",
+			"file": "styles.css",
+			"file_size": 797,
+			"file_write_time": 131597112149959281,
+			"settings":
+			{
+				"buffer_size": 746,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "images/twitter-logo.svg",
+			"settings":
+			{
+				"buffer_size": 1256,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Villu/Desktop/Basic web/leht"
+	],
+	"file_history":
+	[
+		"/C/Users/Villu/Desktop/Basic web/hello-css/styles.css",
+		"/C/Users/Villu/Desktop/Basic web/hello-css/hello-css.html",
+		"/C/Users/Villu/Desktop/Basic web/hello-css/dummy.html",
+		"/C/Users/Villu/Desktop/Basic web/links-and-images/spaces are bad.html",
+		"/C/Users/Villu/Desktop/Basic web/links-and-images/misc/extras.html",
+		"/C/Users/Villu/Desktop/Basic web/links-and-images/images.html",
+		"/C/Users/Villu/Desktop/Basic web/basic web.html",
+		"/C/Users/Villu/Desktop/Basic web/links-and-images/links.html",
+		"/C/Users/Villu/Desktop/Basic web/hello-css/hello-css",
+		"/C/Users/Villu/Desktop/Basic web/Links and images/links.html",
+		"/C/Users/Villu/Desktop/Basic web/Links and images/images.html",
+		"/C/Users/Villu/Desktop/Basic web/Links and images/misc/extras.html",
+		"/C/Users/Villu/Desktop/Basic web/Links and images/spaces are bad.html",
+		"/C/inetpub/wwwroot/reddit/theme.css",
+		"/C/inetpub/wwwroot/reddit/uploader.php",
+		"/C/inetpub/wwwroot/reddit/views/post_view.php",
+		"/C/inetpub/wwwroot/reddit/post.php",
+		"/C/inetpub/wwwroot/reddit/views/post_list.php",
+		"/C/inetpub/wwwroot/reddit/views/login.php",
+		"/C/inetpub/wwwroot/reddit/user.php",
+		"/C/inetpub/wwwroot/reddit/views/post_create.php",
+		"/C/inetpub/wwwroot/reddit/config.php",
+		"/C/inetpub/wwwroot/reddit/index.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Villu/Desktop/prax2_advanced/minesweeper.html",
+		"/C/inetpub/wwwroot/index.html",
+		"/E/PC ISO/Wolfenstein.II.The.New.Colossus-CODEX/codex.nfo",
+		"/C/Users/Villu/Desktop/lehek[lg 1/lk3.html",
+		"/C/Users/Villu/Desktop/lehek[lg 1/lk2.html",
+		"/C/Users/Villu/Desktop/lehek[lg 1/lk1.html",
+		"/C/Users/Villu/Desktop/veeb1style.css",
+		"/C/Users/Villu/Desktop/lehek[lg 1/veeb1.html",
+		"/C/Users/Villu/Desktop/lehek[lg 1/lk4.html",
+		"/C/Users/Villu/Desktop/index.html",
+		"/C/Users/Villu/Desktop/veeb1.css"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "leht1.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								346,
+								346
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								502,
+								502
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "images/twitter-logo.svg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								594,
+								594
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "leht.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
